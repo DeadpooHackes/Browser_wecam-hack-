@@ -7,7 +7,7 @@ on windowws
 
 
 
-rpi setup with ngrock setup
+rasberrypi  setup with ngrock setup
 
 
 
